@@ -1,4 +1,4 @@
-# Check Amazon Links 
+# Organize Wordpress Drafts
 
 Author URI: http://www.linsoftware.com
 
