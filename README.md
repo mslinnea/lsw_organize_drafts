@@ -1,13 +1,23 @@
 # Check Amazon Links 
+
 Author URI: http://www.linsoftware.com
+
 Plugin URI: http://www.linsoftware.com/organize-drafts/
+
 Contributors: LinSoftware
+
 Donate link: http://www.linsoftware.com/support-free-plugin-development/
+
 Tags: organization, organize, workflow, work-flow, folders, drafts, editing, draft folders, draft categories, categorize
+
 Requires at least: 4.4.0
+
 Tested up to: 4.4.1
+
 Stable tag: 1.0.0
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Organize Wordpress Drafts with "Draft Types."  Think of draft types as folders for sorting your drafts. Use the default types or add your own custom draft types.
