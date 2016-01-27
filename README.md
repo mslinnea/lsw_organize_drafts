@@ -32,8 +32,7 @@ Organize Wordpress Drafts with "Draft Types."  Think of draft types as folders f
 * Improve your editing workflow and de-clutter your drafts.
 * By default, works with posts and pages. See the FAQ for how to configure this to work with custom post types.
 
-Have an idea to improve this plugin?  I'd like to hear about it.  Contact me at: http://www.linsoftware
-.com/contact/
+Have an idea to improve this plugin?  I'd like to hear about it.  Contact me at: http://www.linsoftware.com/contact/
 
 ## Installation
 
