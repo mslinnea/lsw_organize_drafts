@@ -42,7 +42,7 @@ Have an idea to improve this plugin?  I'd like to hear about it.  [Contact me he
 
 ## Frequently Asked Questions
 
-# How do I use this plugin with a custom post type? =
+### How do I use this plugin with a custom post type? 
 
 Add the following code to your theme's functions.php file:
 
