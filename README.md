@@ -1,12 +1,8 @@
 # Organize Drafts (Wordpress Plugin)
 
-Author URI: http://www.linsoftware.com
+Author URI: https://www.linsoftware.com
 
-Plugin URI: http://www.linsoftware.com/organize-drafts/
-
-Contributors: LinSoftware
-
-Donate link: http://www.linsoftware.com/support-free-plugin-development/
+Plugin URI: https://www.linsoftware.com/organize-drafts/
 
 Tags: organization, organize, workflow, work-flow, folders, drafts, editing, draft folders, draft categories, categorize
 
@@ -20,33 +16,30 @@ License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Organize Wordpress Drafts with "Draft Types."  Think of draft types as folders for sorting your drafts. Use the default types or add your own custom draft types.
-
+Organize WordPress Drafts with "Draft Types."  Think of draft types as folders for sorting your drafts. Use the default types or add your own custom draft types.
 
 ## Description
 
-Organize Wordpress Drafts with "Draft Types."  Think of draft types as folders for sorting your drafts. Use the default types or add your own custom draft types.
+Organize WordPress Drafts with "Draft Types."  Think of draft types as folders for sorting your drafts. Use the default types or add your own custom draft types.
 
 ### Features:
 
 * Improve your editing workflow and de-clutter your drafts.
 * By default, works with posts and pages. See the FAQ for how to configure this to work with custom post types.
 
-Have an idea to improve this plugin?  I'd like to hear about it.  Contact me at: http://www.linsoftware.com/contact/
-
 ## Installation
 
-1. Install the plugin in wp-content\plugins
-2. Activate the Plugin
+1. Install the plugin in the plugins directory.
+2. Activate the Plugin.
 
 ## Frequently Asked Questions
 
-### How do I use this plugin with a custom post type? 
+### How do I use this plugin with a custom post type?
 
 Add the following code to your theme's functions.php file:
 
-    add_filter('lsw_default_post_types', 'associate_post_types_with_draft_types');
-    function associate_post_types_with_draft_types($post_types) {
+    add_filter( 'lsw_default_post_types', 'associate_post_types_with_draft_types' );
+    function associate_post_types_with_draft_types( $post_types ) {
 	    $post_types[] = 'YOUR_CUSTOM_POST_TYPE';
 	    return $post_types;
     }
