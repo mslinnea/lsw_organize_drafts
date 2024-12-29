@@ -8,7 +8,7 @@ Tags: organization, organize, workflow, work-flow, folders, drafts, editing, dra
 
 Requires at least: 4.4.0
 
-Tested up to: 4.4.1
+Tested up to: 6.7.1
 
 Stable tag: 1.1.0
 
