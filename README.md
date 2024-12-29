@@ -1,4 +1,4 @@
-# Organize Drafts (Wordpress Plugin)
+# Organize Drafts (WordPress Plugin)
 
 Author URI: https://www.linsoftware.com
 
